@@ -16,7 +16,12 @@
 
 ## Art museums
 
+- [Louvre](https://collections.louvre.fr/) - Website - The Collection's database consists of entries for more than 480,000 works in the Musée du Louvre and Musée National Eugène-Delacroix
+- [Rijksmuseum](https://www.rijksmuseum.nl/en/rijksstudio) - Website - The Rijksmuseum has digitized 361,000 works of art 
+
 ## History museums
+
+- [The Tank Museum](https://www.youtube.com/user/TheTankMuseum) - Youtube channel - The Tank Museum, Bovington, Dorset, UK. Home to the world's best collection of tanks and Tiger 131 - the world's only running Tiger Tank
 
 ## Maritime museums
 
