@@ -10,4 +10,4 @@
 	- ❌ `Adding louvre`
 	- ❌ `Added louvre`
 - Your entry should be added at the bottom of the appropriate category.
-
+- Your entry should contain the resource type ( e.g. Youtube channel, webiste, AR/VR experience, etc.)
